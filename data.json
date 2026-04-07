@@ -1,4 +1,12 @@
 {
-  "brawlers": [],
-  "maps": []
+  "brawlers": [
+    { "name": "Shelly", "role": "fighter", "range": "medium", "baseWinRate": 0.5 },
+    { "name": "Colt", "role": "sniper", "range": "long", "baseWinRate": 0.5 },
+    { "name": "Bull", "role": "tank", "range": "short", "baseWinRate": 0.5 },
+    { "name": "Brock", "role": "sniper", "range": "long", "baseWinRate": 0.5 }
+  ],
+  "maps": [
+    { "name": "Shooting Star", "type": "open" },
+    { "name": "Hard Rock Mine", "type": "closed" }
+  ]
 }
